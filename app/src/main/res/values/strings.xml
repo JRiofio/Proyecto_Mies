@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name"> Mies-Dinapen</string>
+    <string name="login">Cédula</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?</string>
+    <string name="TituloCrearCuenta">Crear Cuenta</string>
+    <string name="BtnDireccion">Buscar Mapa</string>
+    <string name="BtnTomarFotos">Guardar Foto</string>
+    <string name="txtBusqueda"> Direccion</string>
+    <string name="title_activity_seleccionar_direccion">SeleccionarDireccion</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Registro_de_Incidente">Registro de Incidente</string>
+    <string name="Logitud_y_Lagtitud">logitud_y_lagtitud</string>
+    <string name="fecha_Hora">Fecha y Hora</string>
+    <string name="Referencias">Referencias</string>
+    <string name="Hora_y_Localizacion">Hora y Localizacion</string>
+    <string name="Evidencia_Foto_Grafica">Evidencia Foto Grafica</string>
+    <string name="Evidencia_Audio">Evidencia Audio</string>
+    <string name="Ir_a_audios">Ir a audios</string>
+    <string name="Tomar_evidencia_fotografica">Tomar evidencia fotografica</string>
+</resources>
